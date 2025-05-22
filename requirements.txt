@@ -4,3 +4,4 @@ sqlalchemy
 requests
 PyJWT
 passlib[bcrypt]
+python-multipart
