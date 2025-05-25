@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ktz_transfer_app/static/css/main.e6c13ad2.css",
+    "main.js": "/ktz_transfer_app/static/js/main.4b30b378.js",
+    "static/js/453.8ab44547.chunk.js": "/ktz_transfer_app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/ktz_transfer_app/index.html",
+    "main.e6c13ad2.css.map": "/ktz_transfer_app/static/css/main.e6c13ad2.css.map",
+    "main.4b30b378.js.map": "/ktz_transfer_app/static/js/main.4b30b378.js.map",
+    "453.8ab44547.chunk.js.map": "/ktz_transfer_app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b30b378.js"
+  ]
+}
